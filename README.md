@@ -1,2 +1,2 @@
 # credit-card-fraud-detection
-это мой первый проект и мои первые шаги в ai-инженерию, 2 месяца назад я даже не знал как писать print("hello world"), а уже умею такое), забыл упомянуть: самое важное что я бы добавил это: сбалансированные данные, импортировать библиотеку которая добавляет столько же мошенников, сколько и обычных людей, в будущем исправлю
+My first project and my first steps in AI engineering, 2 months ago I didn't even know how to write print("hello, world"), but I can already do that), I already mentioned: the most important thing I would add is: balanced data, import a library that includes as many scammers as ordinary people, I will fix it in the future
